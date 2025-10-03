@@ -33,7 +33,6 @@
     "@actions/io": "^1.0.2",
     "@actions/tool-cache": "^2.0.1",
     "@iarna/toml": "^2.2.5",
-    "axios": "1.12.2",
     "semver": "^7.5.2"
   },
   "devDependencies": {
